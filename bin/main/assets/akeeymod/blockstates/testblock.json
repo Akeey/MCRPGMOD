@@ -1,0 +1,5 @@
+{
+    "variants": {
+        " ": { "model": "akeeymod:block/test_block" }
+    }
+}
